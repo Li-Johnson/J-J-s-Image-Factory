@@ -1,0 +1,7 @@
+Welcome to J & J's Image Factory!
+This is a paint-like image editor program.
+Open an image by selecting "open" under the file tab and save by selecting ''Save as'' (make sure to put a file extension or the file won't be an image).
+Select a tool on the right and the information about that tool will appear on the bottom of the screen.
+On the bottom, there is a slider to change your brush size and a color button to choose your color.
+There is also a "sharp shapes" option to have pointy corners on rectangles instead of round corners.
+On the top, there are filters to use to customize the image.
