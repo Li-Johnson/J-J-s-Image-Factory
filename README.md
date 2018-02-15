@@ -1,6 +1,6 @@
 # J & J's Image Factory :paintbrush: :paintbrush:
-Jiayang and Johnson's Fall Final Project!!!
-
+Jiayang and Johnson's Fall Final Project!!!  
+https://github.com/jchen59/J-J-s-Image-Factory
 
 ## About
 An image editor to edit existing images or create new images from scratch with tools like:  
